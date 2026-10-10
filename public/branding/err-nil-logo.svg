@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">ERR NIL logo</title>
+  <desc id="description">A geometric monochrome not-equal mark with a play-shaped exclamation point.</desc>
+
+  <rect width="512" height="512" fill="#050505"/>
+
+  <g fill="none" stroke="#f2f2f2" stroke-width="16" stroke-linecap="square" stroke-linejoin="miter">
+    <!-- Exclamation stem -->
+    <path d="M78 64 H170 L154 306 H110 Z"/>
+
+    <!-- Play-shaped dot -->
+    <path d="M110 356 H154 L190 392 L154 428 H110 Z"/>
+
+    <!-- Equals bars -->
+    <path d="M256 132 H448 V200 H256 Z"/>
+    <path d="M256 276 H448 V344 H256 Z"/>
+  </g>
+</svg>
